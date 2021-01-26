@@ -38,13 +38,10 @@ export default function Home() {
 
           </Widget.Content>
         </Widget>
-
-        <Footer>          
+      </QuizContainer>
+      <Footer>          
         <GitHubCorner projectUrl='https://github.com/010010110/quiz_nextjs'/>
       </Footer>
-        
-      </QuizContainer>
-      
     </QuizBackground>
   )
 }
