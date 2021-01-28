@@ -1,7 +1,7 @@
 {
     "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-    "title": "titolo do quiz", 
-    "description": "descricao do quiz",
+    "title": "League of Legends", 
+    "description": "Quiz sobre a lore de League of Legends",
     "questions": [
         {
           "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
